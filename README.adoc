@@ -1,0 +1,31 @@
+= iOPS organisation profile and community health files
+
+== Purpose
+
+This repository holds the public profile of the link:https://github.com/iOPS-RnD[iOPS-RnD] GitHub organisation, home of iOPS, and its default community health files.
+
+== Scope
+
+* `profile/README.md`: the organisation profile shown on the organisation's GitHub page.
+* `CODE_OF_CONDUCT.md`, `CONTRIBUTING.md`, `SECURITY.md` and `SUPPORT.md`: default community health files. GitHub uses them for every repository in the organisation that does not have its own.
+* `GOVERNANCE.adoc` and `DCO`: the governance model and the Developer Certificate of Origin that the contribution guidelines refer to.
+
+== Relationship to iOPS
+
+iOPS is an umbrella initiative. This repository describes the organisation as a whole. Projects and shared research assets keep their own repositories and are hosted and governed where the profile links point.
+
+== What belongs here
+
+* The organisation profile.
+* The default community health files and the documents they refer to.
+
+== What does not belong here
+
+* Project code, data or documentation.
+* Shared research material, which belongs in a dedicated resources repository.
+* Programme-management or other non-public information.
+* Credentials, tokens, passwords, keys or other secrets.
+
+== Licence
+
+Unless a file states otherwise, the content of this repository is licensed under the link:https://creativecommons.org/licenses/by-nc-sa/4.0/[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International] (CC BY-NC-SA 4.0). See link:LICENSE[LICENSE].
