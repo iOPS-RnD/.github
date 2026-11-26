@@ -64,7 +64,3 @@ For questions, issues, or general discussions, refer to the support guidelines:
 - Before opening a new issue, check existing issues to avoid duplicates.
 - Clearly describe the issue or feature request with relevant details.
 - Label the issue appropriately for better tracking.
-
-------------------------------------------------------------------------
-
-Adapted from Talk2PowerSystem (<https://github.com/statnett/Talk2PowerSystem>), licensed CC BY-NC-SA 4.0. Changes were made.

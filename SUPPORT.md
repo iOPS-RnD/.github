@@ -48,7 +48,3 @@ There are no dedicated support, custom development, or priority handling.
 ## Thank You
 
 Your engagement and contributions help improve this project. We appreciate your support!
-
-------------------------------------------------------------------------
-
-Adapted from Talk2PowerSystem (<https://github.com/statnett/Talk2PowerSystem>), licensed CC BY-NC-SA 4.0. Changes were made.

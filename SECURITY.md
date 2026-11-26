@@ -48,7 +48,3 @@ If you suspect a security issue or improper handling of sensitive information:
 ## Thank You
 
 We appreciate your help in keeping this project and its users safe. Your adherence to these guidelines helps ensure a secure and responsible development environment.
-
-------------------------------------------------------------------------
-
-Adapted from Talk2PowerSystem (<https://github.com/statnett/Talk2PowerSystem>), licensed CC BY-NC-SA 4.0. Changes were made.

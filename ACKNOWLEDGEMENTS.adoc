@@ -1,0 +1,20 @@
+= Acknowledgements
+
+The content of this repository was written by, or draws on, the following.
+
+[[credit-statnett-health-files]]
+Statnett SF::
+CONTRIBUTING, GOVERNANCE, SECURITY and SUPPORT are written and maintained by Statnett, drawing on GitHub's community health file guidance where relevant. See https://www.statnett.no/.
+
+[[credit-github-community-health]]
+GitHub Docs, community health files::
+The choice and placement of the community health files follow GitHub's guidance. See https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file.
+
+[[credit-contributor-covenant]]
+Contributor Covenant::
+The Code of Conduct is adapted from the Contributor Covenant, version 2.0; its own attribution is kept in the Code of Conduct. Licence: CC BY 4.0. See https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+[[credit-dco]]
+Developer Certificate of Origin::
+The Developer Certificate of Origin, version 1.1, is copyright The Linux Foundation and its contributors and is reproduced verbatim. See https://developercertificate.org/.
+
