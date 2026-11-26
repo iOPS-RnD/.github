@@ -82,7 +82,7 @@ The synthetic-model work is evolving towards the next generation of shared Nordi
 
 Shared synthetic power-system model, replacing Nordic44.
 
-### resources
+### [resources](https://github.com/iOPS-RnD/resources)
 
 The `resources` repository contains information and material intended to be reused across iOPS projects, including:
 
@@ -121,8 +121,8 @@ iOPS-RnD/
 ├── .github
 │     Organisation profile and common GitHub community files
 │
-├── resources                     [PRIVATE]
-│     Shared information and reusable resources
+├── resources
+│     Shared public information and reusable resources
 │
 ├── management                    [PRIVATE]
 │     iOPS programme coordination and protected information
